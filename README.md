@@ -1,4 +1,4 @@
-### Oii eu sou o Bruno Correa, estudante de programação e tecnologia! 👋
+### Oii eu sou o Bruno Correa, sou fã de tecnologia e gosto muito de desenvolver sites e aplicativos! 👋
 
 
 <div align="center">
