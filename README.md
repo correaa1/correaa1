@@ -1,25 +1,142 @@
+# 👋 Hey, I'm Bruno Corrêa
 
+### Software Engineer specialized in Web Applications, Automation and Backend Systems
 
+Building scalable applications, browser automation solutions, data extraction services and modern full-stack systems.
 
-<div align="center">
-  <a href="https://github.com/correaa1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=correaa1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=correaa1&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
-  ##
- 
-<div> 
-  <a href="https://instagram.com/correabruno1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:brunocorrea094@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bruno-correa-dos-santos-887684144/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/correaa1/correaa1/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+---
+
+## 🚀 About Me
+
+I'm a Software Engineer currently working at **Sethi Soluções Financeiras**, where I develop internal systems, automation services, scraping solutions and backend applications.
+
+My work involves the complete software lifecycle — from frontend interfaces and backend APIs to infrastructure, deployment and server configuration.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=correaa1&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=correaa1&layout=compact" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=correaa1" />
+</p>
+
+---
+
+## 🏙️ GitHub Skyline
+
+My GitHub activity visualized as a 3D city.
+
+Generate your skyline at:
+
+https://skyline.github.com
+
+---
+
+## 🎯 Core Expertise
+
+### Web Applications
+
+* React
+* TypeScript
+* JavaScript
+
+### Backend Systems
+
+* Node.js
+* API Development
+* Integrations
+
+### Automation
+
+* Puppeteer
+* Web Scraping
+* Browser Automation
+
+### Infrastructure
+
+* Docker
+* Linux
+* Deployment
+* Server Configuration
+
+---
+
+## ⚡ Current Stack
+
+```txt
+TypeScript
+JavaScript
+React
+Node.js
+PostgreSQL
+Docker
+Linux
+Puppeteer
+```
+
+## 🧠 Experienced With
+
+```txt
+MySQL
+SQL Server
+MongoDB
+Redis
+```
+
+---
+
+## 🏆 Featured Projects
+
+### 🧩 Autismo Project
+
+A project focused on delivering meaningful solutions and user experiences.
+
+### 🌲 Imbuia
+
+A full-stack application demonstrating scalable architecture and modern development practices.
+
+### 🦖 Dino Jungle
+
+Interactive project showcasing frontend development and user engagement.
+
+### 💼 Portfolio Bruno
+
+Personal portfolio presenting projects, experience and technical background.
+
+### 🏝️ Ilha Jurássica Landing
+
+Landing page focused on design, performance and responsive experiences.
+
+---
+
+## 🔥 What I Build
+
+* Internal Business Systems
+* Browser Automation Solutions
+* Data Extraction Services
+* Backend APIs
+* Full Stack Applications
+* Production Deployments
+
+---
+
+## 🌐 Connect With Me
+
+LinkedIn:
+https://www.linkedin.com/in/devbrunocorrea1/
+
+GitHub:
+https://github.com/correaa1
+
+---
+
+> "Building software that solves real-world problems."
