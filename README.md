@@ -38,6 +38,9 @@ My work involves the complete software lifecycle — from frontend interfaces an
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/correaa1/correaa1/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/correaa1/correaa1/output/pacman-contribution-graph.svg">
 </picture>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=correaa1&theme=react-dark)
+
 ## 🎯 Core Expertise
 
 ### Web Applications
