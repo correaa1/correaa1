@@ -31,12 +31,21 @@ My work involves the complete software lifecycle — from frontend interfaces an
 
 ---
 
-## 🎮 Contribution Game
+## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/correaa1/correaa1/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/correaa1/correaa1/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/correaa1/correaa1/output/pacman-contribution-graph.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/correaa1/correaa1/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/correaa1/correaa1/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution snake"
+    src="https://raw.githubusercontent.com/correaa1/correaa1/output/github-contribution-grid-snake.svg"
+  />
 </picture>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=correaa1&theme=react-dark)
