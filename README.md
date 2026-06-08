@@ -31,16 +31,13 @@ My work involves the complete software lifecycle — from frontend interfaces an
 
 ---
 
-## 🏙️ GitHub Skyline
+## 🎮 Contribution Game
 
-My GitHub activity visualized as a 3D city.
-
-Generate your skyline at:
-
-https://skyline.github.com
-
----
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/correaa1/correaa1/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/correaa1/correaa1/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/correaa1/correaa1/output/pacman-contribution-graph.svg">
+</picture>
 ## 🎯 Core Expertise
 
 ### Web Applications
