@@ -38,4 +38,4 @@ jobs:
 
           filename: github-metrics.svg
         env:
-          GITHUB_TOKEN: ${{ secrets.MYSEC }}
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
