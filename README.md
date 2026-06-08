@@ -25,9 +25,7 @@ My work involves the complete software lifecycle — from frontend interfaces an
 
 ## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=correaa1" />
-</p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=correaa1&theme=react-dark)
 
 ---
 
@@ -48,7 +46,7 @@ My work involves the complete software lifecycle — from frontend interfaces an
   />
 </picture>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=correaa1&theme=react-dark)
+
 
 ## 🎯 Core Expertise
 
@@ -147,5 +145,3 @@ GitHub:
 https://github.com/correaa1
 
 ---
-
-> "Building software that solves real-world problems."
